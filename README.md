@@ -13,3 +13,5 @@ Sample flow for a user:
 5) review results, saved within user's account
 
 Sample walkthroughs/images:
+1) detection within image (cropped) of geese as part of a larger image set (taken at Lake Takanassee, NJ)
+![gooseDet](https://user-images.githubusercontent.com/33354404/186954971-520fb720-235f-4dfb-b612-6b7436fdd4cf.jpg)
