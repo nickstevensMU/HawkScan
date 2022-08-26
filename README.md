@@ -13,5 +13,12 @@ Sample flow for a user:
 5) review results, saved within user's account
 
 Sample walkthroughs/images:
-1) detection within image (cropped) of geese as part of a larger image set (taken at Lake Takanassee, NJ)
+1) detection within imageset of geese. resulting from image set of around 100 images. (taken at Lake Takanassee, NJ)
 ![gooseDet](https://user-images.githubusercontent.com/33354404/186954971-520fb720-235f-4dfb-b612-6b7436fdd4cf.jpg)
+
+2) website homepage:
+![ss+(2022-08-26+at+01 04 32)](https://user-images.githubusercontent.com/33354404/186957127-2133c774-c5c3-42b2-bbff-54b8ec5acc9b.jpg)
+
+
+3) extensive documentation (implementation planning, requirements, walkthroughs) available:
+https://live365monmouth-my.sharepoint.com/:f:/g/personal/s0982306_monmouth_edu/EgCL2j2V4_hOpRLif4bp6jMBIhga2SmbGvvmDy0RUL6Few?e=jchdoc 
